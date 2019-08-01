@@ -7,3 +7,6 @@
 [submodule "deeplearning-models"]
 	path = deeplearning-models
 	url = https://github.com/rasbt/deeplearning-models
+[submodule "practical-pytorch"]
+	path = practical-pytorch
+	url = https://github.com/spro/practical-pytorch
