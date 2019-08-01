@@ -1,0 +1,3 @@
+[submodule "d2l-pytorch"]
+	path = d2l-pytorch
+	url = https://github.com/dsgiitr/d2l-pytorch
