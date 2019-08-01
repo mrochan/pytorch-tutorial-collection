@@ -4,3 +4,6 @@
 [submodule "A-Collection-of-important-tasks-in-pytorch"]
 	path = A-Collection-of-important-tasks-in-pytorch
 	url = https://github.com/Spandan-Madan/A-Collection-of-important-tasks-in-pytorch
+[submodule "deeplearning-models"]
+	path = deeplearning-models
+	url = https://github.com/rasbt/deeplearning-models
