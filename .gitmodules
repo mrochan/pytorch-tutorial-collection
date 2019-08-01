@@ -1,3 +1,6 @@
 [submodule "d2l-pytorch"]
 	path = d2l-pytorch
 	url = https://github.com/dsgiitr/d2l-pytorch
+[submodule "A-Collection-of-important-tasks-in-pytorch"]
+	path = A-Collection-of-important-tasks-in-pytorch
+	url = https://github.com/Spandan-Madan/A-Collection-of-important-tasks-in-pytorch
