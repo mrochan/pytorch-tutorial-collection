@@ -10,6 +10,3 @@
 [submodule "practical-pytorch"]
 	path = practical-pytorch
 	url = https://github.com/spro/practical-pytorch
-[submodule "heaton_deep_learning_tf"]
-	path = heaton_deep_learning_tf
-	url = https://github.com/jeffheaton/t81_558_deep_learning
