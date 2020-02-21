@@ -13,3 +13,6 @@
 [submodule "heaton_deep_learning_tf"]
 	path = heaton_deep_learning_tf
 	url = https://github.com/jeffheaton/t81_558_deep_learning
+[submodule "yunjey-pytorch-tutorial"]
+	path = yunjey-pytorch-tutorial
+	url = https://github.com/yunjey/pytorch-tutorial.git
