@@ -16,3 +16,6 @@
 [submodule "yunjey-pytorch-tutorial"]
 	path = yunjey-pytorch-tutorial
 	url = https://github.com/yunjey/pytorch-tutorial.git
+[submodule "the-incredible-pytorch"]
+	path = the-incredible-pytorch
+	url = https://github.com/ritchieng/the-incredible-pytorch
